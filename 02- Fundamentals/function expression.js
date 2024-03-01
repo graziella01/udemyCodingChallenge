@@ -44,5 +44,5 @@ const checkWinner1 = function (avgDolphins1, avgKoalas1) {
     console.log("No Winners");
   }
 };
-//this methoa makes the function more reusable
+//this method makes the function more reusable
 checkWinner1(scoreDolphins1, scoreKoalas1);
